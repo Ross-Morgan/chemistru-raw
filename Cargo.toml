@@ -3,6 +3,10 @@ name = "chemistru-raw"
 author = "Ross Morgan <rmorgan512@protonmail.ch>"
 description = "Static Vector of Raw Elemental Data"
 
+documentation = "https://docs.rs/chemistru-raw"
+homepage = "https://docs.rs/chemistru-raw"
+repository = "https://github.com/Ross-Morgan/chemistru-raw"
+
 license = "GPL-v3.0"
 
 version = "0.1.0"
