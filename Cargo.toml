@@ -1,5 +1,6 @@
 [package]
 name = "chemistru-raw"
+author = "Ross Morgan <rmorgan512@protonmail.ch>"
 version = "0.1.0"
 edition = "2021"
 
