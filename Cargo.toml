@@ -1,6 +1,7 @@
 [package]
 name = "chemistru-raw"
 author = "Ross Morgan <rmorgan512@protonmail.ch>"
+description = "Static Vector of Raw Elemental Data"
 
 license = "GPL-v3.0"
 
