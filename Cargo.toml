@@ -7,7 +7,7 @@ documentation = "https://docs.rs/chemistru-raw"
 homepage = "https://docs.rs/chemistru-raw"
 repository = "https://github.com/Ross-Morgan/chemistru-raw"
 
-license = "GPL-v3.0"
+license = "GPL-3.0"
 
 version = "0.1.0"
 edition = "2021"
